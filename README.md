@@ -9,7 +9,6 @@ This Qur'an Web Application provides a comprehensive and interactive platform fo
 - **Chapters List**: View all chapters of the Qur'an with details such as chapter number, name in Arabic, and translated name.
 - **Verse Display**: Read and explore verses of the Qur'an with both Arabic text and English translations.
 - **Bookmarking**: Bookmark verses to save and revisit them later. Bookmarks are stored locally in the browser.
-- **Responsive Design**: Designed to work well on both desktop and mobile devices.
 
 ## Technologies Used
 
